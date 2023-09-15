@@ -11,6 +11,6 @@ public class Names {
     System.out.println("\tSally\t\tRoanoke\t\tComputer Science");
     System.out.println("\tAlexander\tWashington");
     System.out.println("\tNannette\tHartford");
-   System.out.println("\tAlyssa\tHartford")
+   System.out.println("\tAlyssa\tHartford");
   }
 }
