@@ -1,4 +1,4 @@
-#import java.util.Scanner;
+import java.util.Scanner;
 // File:     Errors.java
 // Purpose: A program with lots of syntax errors
 // Correct all of the errors (STUDY the program carefully!!)
