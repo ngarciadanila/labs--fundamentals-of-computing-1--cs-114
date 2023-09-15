@@ -9,8 +9,8 @@ public class Names {
     System.out.println(" \tName\t\tHometown\t\tMajor") ;
     System.out.println("\t====\t\t========\t\t=====");
     System.out.println("\tSally\t\tRoanoke\t\tComputer Science");
-    System.out.println("\tAlexander\tWashington");
-    System.out.println("\tNannette\tHartford");
-   System.out.println("\tAlyssa\t\tHartford");
+    System.out.println("\tAlexander\tWashington\t\tMath");
+    System.out.println("\tNannette\tHartford\t\tData Science");
+   System.out.println("\tAlyssa\t\tHartford\t\tExercise Science);
   }
 }
